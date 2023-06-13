@@ -1,0 +1,10 @@
+* safe-read
+
+A variant of READ secure against internbombing, excessive input and macro characters.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/safe-read.git   |
+| commit  | d25f085  |
+| systems | safe-read |
+|---------+-------------------------------------------|
+
