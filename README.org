@@ -8,3 +8,4 @@ A variant of READ secure against internbombing, excessive input and macro charac
 | systems | safe-read |
 |---------+-------------------------------------------|
 
+ 
